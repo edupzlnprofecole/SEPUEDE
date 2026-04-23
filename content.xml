@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260423211610E21HJM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260423211610PEYAUF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>NUESTRO ENTORNO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Eduardo Pérez León</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta Situción de Aprendizaje abordaremos el tema de las rocas y los minerales. Partiendo de los contenidos desarrollados en cursos anteriores sobre cómo el conocimiento de la Tierra y sus partes, se profundizarán en los siguientes aspectos teniendo en cuenta la secuencia didáctica que sugiere un eje conductor sobre el que fundamentar el proceso de enseñanza-aprendizaje:
+• Recordaremos y ahondaremos en el estudio de las partes de la Tierra: Localizaremos en las diferentes partes de la Tierra los lugares donde podemos encontrar rocas y minerales.
+• Conoceremos qué es una roca, de qué están compuestas y diferencias y similitudes en cuanto a sus características • Conoceremos qué es un mineral y diferenciaremos entre distintos tipos de minerales.
+• Estudiaremos las propiedades de los minerales: morfología, brillo, color, dureza, intensidad,...
+• Partiendo del conocimiento de los diferentes tipos de yacimientos, conoceremos cómo se utilizan los materiales que se extraen de la Tierra.
+• A través de los yacimientos. Interpretaremos el significado de la escala de los mapas y abordaremos los dos tipos en que se pueden presentar este elemento.
+• Identificaremos las rocas en Canarias: Tipos de roca, formación de las mismas, usos y la explotación de las rocas y sus problemas.
+• En las últimas páginas se desarrollarán dos tareas competenciales con el fin de adquirir el logro de las competencias básicas en relación a los contenidos tratados a lo largo de la unidad, así como un repaso de la unidad para afianzar los mismos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: cc0 1.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/publicdomain/zero/1.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776971539372</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnt0ctri-qrbktmi0k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia Didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctri-qrbktmi0k</odePageId>
+      <odeBlockId>block-mnstgyna-j621d2r88</odeBlockId>
+      <blockName>Nuestro entorno</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctri-qrbktmi0k</odePageId>
+          <odeBlockId>block-mnstgyna-j621d2r88</odeBlockId>
+          <odeIdeviceId>idevice-mnstgyna-oxhztj3fy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En este enlace tendréis todo el material que necesitáis para trabajar esta Situación de Aprendizaje en este </span></span><a href="https://www.symbaloo.com/mix/minerales-5ep-2026"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">SYMBALOO</span></span></a> </span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-11 a las 22.33.36.png" width="1440" height="970" alt="" /></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Muy importante, no olvidarse de cómo tenemos que usar internet, y las cositas que nos vamos a encontrar, si podemos usarlas o no, para ello mira esta imagen que os ayudará: </span></span></span></span></p>
+<p><a href="https://canva.link/0ymp02p28zt4m8r" title="">INTERNET</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgyna-oxhztj3fy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En este enlace tendréis todo el material que necesitáis para trabajar esta Situación de Aprendizaje en este </span></span><a href=\"https://www.symbaloo.com/mix/minerales-5ep-2026\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">SYMBALOO</span></span></a> </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-11 a las 22.33.36.png\" width=\"1440\" height=\"970\" alt=\"\" /></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Muy importante, no olvidarse de cómo tenemos que usar internet, y las cositas que nos vamos a encontrar, si podemos usarlas o no, para ello mira esta imagen que os ayudará: </span></span></span></span></p>\n<p><a href=\"https://canva.link/0ymp02p28zt4m8r\" title=\"\">INTERNET</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctri-qrbktmi0k</odePageId>
+      <odeBlockId>block-mnstgyna-0dp36bn83</odeBlockId>
+      <blockName>¿Qué nos encontraremos ahora?</blockName>
+      <iconName>wikipedia</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctri-qrbktmi0k</odePageId>
+          <odeBlockId>block-mnstgyna-0dp36bn83</odeBlockId>
+          <odeIdeviceId>idevice-mnstgyna-jidx1z4bs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"></p>
+<ul>
+<li><strong><span style="color: #800080; font-size: 14pt;">Comenzamos:  </span></strong><span style="color: #993300;">Con esta tarea se pretende que el alumnado se ponga en sintonía con el itinerario que vamos a comenzar. A través de una rutina de pensamiento conseguimos dos objetivos, uno situar al alumno, y por otro lado una evaluación inicial que ayude a conocer los conocimientos previos y rediseñar el itinerario si fuera necesario.</span></li>
+<li><span style="color: #993300;"><span style="font-size: 14pt; color: #800080;"><strong>¿Qué tenemos a nuestro alrededor?:</strong> </span> Conocer el concepto de máquinas simples desde la conceptualización de los diferentes tipos a través de la creación de un mapa mental de conceptos básicos, utilizando la técnica del visual thinking. Así como la identificación de estas máquinas en la vida diaria. </span></li>
+<li><span style="color: #993300;"><span style="font-size: 14pt; color: #800080;"><strong>Investigamos:</strong></span> Con esta tarea cada alumno del grupo clase investigará sobre un invento, su historia y lo que supuso de cambio en la vida diaria de las personas. Con todas las investigaciones se elaborará una línea del tiempo. </span></li>
+<li><span style="color: #993300;"><span style="color: #800080;"><strong><span style="font-size: 14pt;">Nos divertimos:</span> </strong></span>Al llegar al final del itinerario el alumno visualizará los conceptos aprendidos al lo largo del recurso en el diseño y creación de una maqueta de un invento. Realizará un vídeo explicativo del diseño y uso del invento creado.  </span><span style="color: #993300;"></span></li>
+<li><span style="color: #993300;"><span style="font-size: 14pt; color: #800080;"><strong>Jugamos:</strong></span> En esta fase podréis jugar y aprender cosas nuevas.</span></li>
+<li><span style="color: #993300;"><span style="color: #800080;"><strong><span style="font-size: 14pt;">Nos evaluamos:</span> </strong></span>Es un buen momento para saber si hemos afianzado los conocimientos y ponernos a prueba.</span></li>
+<li><span style="color: #993300;"><strong><span style="color: #800080; font-size: 14pt;">Exponemos nuestro trabajo: </span></strong>los pasos para realizar nuestro producto final</span></li>
+<li><span style="color: #993300;"><span style="font-size: 14pt; color: #800080;"><strong>Guía didáctica:</strong> </span>todo lo que hemos necesitado para realizar esta Secuencia didáctica.</span></li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\"></p>\n<ul>\n<li><strong><span style=\"color: #800080; font-size: 14pt;\">Comenzamos:  </span></strong><span style=\"color: #993300;\">Con esta tarea se pretende que el alumnado se ponga en sintonía con el itinerario que vamos a comenzar. A través de una rutina de pensamiento conseguimos dos objetivos, uno situar al alumno, y por otro lado una evaluación inicial que ayude a conocer los conocimientos previos y rediseñar el itinerario si fuera necesario.</span></li>\n<li><span style=\"color: #993300;\"><span style=\"font-size: 14pt; color: #800080;\"><strong>¿Qué tenemos a nuestro alrededor?:</strong> </span> Conocer el concepto de máquinas simples desde la conceptualización de los diferentes tipos a través de la creación de un mapa mental de conceptos básicos, utilizando la técnica del visual thinking. Así como la identificación de estas máquinas en la vida diaria. </span></li>\n<li><span style=\"color: #993300;\"><span style=\"font-size: 14pt; color: #800080;\"><strong>Investigamos:</strong></span> Con esta tarea cada alumno del grupo clase investigará sobre un invento, su historia y lo que supuso de cambio en la vida diaria de las personas. Con todas las investigaciones se elaborará una línea del tiempo. </span></li>\n<li><span style=\"color: #993300;\"><span style=\"color: #800080;\"><strong><span style=\"font-size: 14pt;\">Nos divertimos:</span> </strong></span>Al llegar al final del itinerario el alumno visualizará los conceptos aprendidos al lo largo del recurso en el diseño y creación de una maqueta de un invento. Realizará un vídeo explicativo del diseño y uso del invento creado.  </span><span style=\"color: #993300;\"></span></li>\n<li><span style=\"color: #993300;\"><span style=\"font-size: 14pt; color: #800080;\"><strong>Jugamos:</strong></span> En esta fase podréis jugar y aprender cosas nuevas.</span></li>\n<li><span style=\"color: #993300;\"><span style=\"color: #800080;\"><strong><span style=\"font-size: 14pt;\">Nos evaluamos:</span> </strong></span>Es un buen momento para saber si hemos afianzado los conocimientos y ponernos a prueba.</span></li>\n<li><span style=\"color: #993300;\"><strong><span style=\"color: #800080; font-size: 14pt;\">Exponemos nuestro trabajo: </span></strong>los pasos para realizar nuestro producto final</span></li>\n<li><span style=\"color: #993300;\"><span style=\"font-size: 14pt; color: #800080;\"><strong>Guía didáctica:</strong> </span>todo lo que hemos necesitado para realizar esta Secuencia didáctica.</span></li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Comenzamos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comenzamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Comenzamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+      <odeBlockId>block-mnstgyna-g6cx9c1hw</odeBlockId>
+      <blockName>COMENZAMOS</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+          <odeBlockId>block-mnstgyna-g6cx9c1hw</odeBlockId>
+          <odeIdeviceId>idevice-mnstgyna-uk8oox1o3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;">Bienvenidos a una nueva aventura de aprendizaje en la que vamos a mejorar nuestras competencias en Ciencias y también nuestra competencia digital. Este proyecto gira entorno a los recursos de la geosfera, los diferentes tipos y la historia de diferentes minerales. Vamos a intentar disfrutar al máximo de este proceso de aprendizaje. </p>
+<p></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\">Bienvenidos a una nueva aventura de aprendizaje en la que vamos a mejorar nuestras competencias en Ciencias y también nuestra competencia digital. Este proyecto gira entorno a los recursos de la geosfera, los diferentes tipos y la historia de diferentes minerales. Vamos a intentar disfrutar al máximo de este proceso de aprendizaje. </p>\n<p></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+      <odeBlockId>block-mnstgyna-j1oopm0rr</odeBlockId>
+      <blockName>&quot;Compara y contrasta&quot;</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+          <odeBlockId>block-mnstgyna-j1oopm0rr</odeBlockId>
+          <odeIdeviceId>idevice-mnstgyna-svh70ifmc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Antes de comenzar, vamos a realizar<span style="color: #0000ff;"><strong> esta actividad: </strong></span></p>
+<p>Compara y contrasta es una destreza de pensamiento que trabajaremos para desarrollar las habilidades necesarias para resolver problemas comparar y contrastar, partiendo de los conocimientos que ya tenéis.</p>
+<p><span style="font-size: 14pt;"><strong>PASOS:</strong></span></p>
+<p>Establecermos una serie de preguntas que nos servirán de guía para llegar a una conclusión final:</p>
+<ul>
+<li>¿En qué se parecen?</li>
+<li>¿En qué se diferencian?</li>
+<li>¿Cuáles son las similitudes y diferencias importantes?</li>
+<li>¿Qué conclusión sacamos de las rocas y los minerales, según las similitudes y las diferencias que hemos encontrado?</li>
+</ul>
+<p>Utilizaremos esta plantilla</p>
+<p><img src="{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_20.11.04.png" alt="Plantilla " compara y constrasta"" width="894" height="1166" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Antes de comenzar, vamos a realizar<span style=\"color: #0000ff;\"><strong> esta actividad: </strong></span></p>\n<p>Compara y contrasta es una destreza de pensamiento que trabajaremos para desarrollar las habilidades necesarias para resolver problemas comparar y contrastar, partiendo de los conocimientos que ya tenéis.</p>\n<p><span style=\"font-size: 14pt;\"><strong>PASOS:</strong></span></p>\n<p>Establecermos una serie de preguntas que nos servirán de guía para llegar a una conclusión final:</p>\n<ul>\n<li>¿En qué se parecen?</li>\n<li>¿En qué se diferencian?</li>\n<li>¿Cuáles son las similitudes y diferencias importantes?</li>\n<li>¿Qué conclusión sacamos de las rocas y los minerales, según las similitudes y las diferencias que hemos encontrado?</li>\n</ul>\n<p>Utilizaremos esta plantilla</p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_20.11.04.png\" alt=\"Plantilla \" compara y constrasta\"\" width=\"894\" height=\"1166\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+      <odeBlockId>block-mnstgynb-dwl8if2hp</odeBlockId>
+      <blockName>Nuevo reto: Conocer el mundo que nos rodea</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrj-ysq9cwd8t</odePageId>
+          <odeBlockId>block-mnstgynb-dwl8if2hp</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-96xtuxww0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><img src="{{context_path}}/content/resources/Infografía Nuestro entorno.png" width="800" height="2000" alt="" />¿QUÉ VAMOS A TRABAJAR?</span></span></strong></p>
+<p><a href="https://canva.link/3ptnbu7rov5hszu" title="">Infografía</a></p>
+<p style="text-align: center;"><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-96xtuxww0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><img src=\"{{context_path}}/content/resources/Infografía Nuestro entorno.png\" width=\"800\" height=\"2000\" alt=\"\" />¿QUÉ VAMOS A TRABAJAR?</span></span></strong></p>\n<p><a href=\"https://canva.link/3ptnbu7rov5hszu\" title=\"\">Infografía</a></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrj-7c0t4upj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué tenemos a nuestro alrededor?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué tenemos a nuestro alrededor?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué tenemos a nuestro alrededor?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrj-7c0t4upj2</odePageId>
+      <odeBlockId>block-mnstgynb-j6c95rury</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrj-7c0t4upj2</odePageId>
+          <odeBlockId>block-mnstgynb-j6c95rury</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-945uvos1y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Os presento unos vídeos sobre los minerales y las rocas, nos pueden servir para introducirnos en esta nueva temática que vamos a trabajar:</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/Dn3n3wajdFI"></iframe><iframe width="560" height="314" src="https://www.youtube.com/embed/AKxpe-B4iGU"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/c89Qai8S0n0"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Os presento unos vídeos sobre los minerales y las rocas, nos pueden servir para introducirnos en esta nueva temática que vamos a trabajar:</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Dn3n3wajdFI\"></iframe><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/AKxpe-B4iGU\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/c89Qai8S0n0\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrj-7c0t4upj2</odePageId>
+      <odeBlockId>block-mnstgynb-pbrbjpsln</odeBlockId>
+      <blockName>Contenido del tema</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrj-7c0t4upj2</odePageId>
+          <odeBlockId>block-mnstgynb-pbrbjpsln</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-18rm4kc3g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="">Sabemos que también necesitamos contrastar información, saber si nos estamos confundiendo o no, para ello en este enlace  <a href="https://drive.google.com/file/d/1IK0keqWkR2S_2lLYRPACYXLD6crIl32j/view?usp=sharing" title="">DESCÚBRE </a></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">  tenéis el contenido del tema que también deberéis trabajar e interiorizar.</span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-18rm4kc3g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"\">Sabemos que también necesitamos contrastar información, saber si nos estamos confundiendo o no, para ello en este enlace  <a href=\"https://drive.google.com/file/d/1IK0keqWkR2S_2lLYRPACYXLD6crIl32j/view?usp=sharing\" title=\"\">DESCÚBRE </a></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">  tenéis el contenido del tema que también deberéis trabajar e interiorizar.</span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrk-pkxkga2e4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Investigamos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Investigamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrk-pkxkga2e4</odePageId>
+      <odeBlockId>block-mnstgynb-2xi7o5pat</odeBlockId>
+      <blockName>Creamos una infografía</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrk-pkxkga2e4</odePageId>
+          <odeBlockId>block-mnstgynb-2xi7o5pat</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-0q7misfuu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Para poder realizar nuestra infografía vamos a seguir paso a paso cómo se debe realizar:</span></span></span></span></span></span></p>
+<ul>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Podemos utilizar la herramienta Canva. Necesitarás ideas, datos y algo que contar; una vez lo tengas, necesitarás plasmarlo en un diseño único y que llame la atención. </span></span></span></span></span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Las habrás visto más de una vez: una infografía es una recopilación de información y datos, habitualmente numéricos, sobre un tema determinado, que se muestra ordenadamente con el apoyo de imágenes u otros recursos.</span></span></span></span></span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sirven para reanudar trabajos más completos, o para tratar información específica sobre un tema.</span></span></span></span></span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Una vez que hayas terminado el diseño, el programa te permitirá exportar la infografía a un formato de imagen (jpg, png, etc.) que podrás imprimir o compartir, ya sea a tus compañeros oa todo Internet a través de las redes sociales. Se trata de un procedimiento que puede resultar complejo en un inicio pero que con las herramientas adecuadas es muy sencillo de realizar en clase, y un excelente ejercicio de síntesis y búsqueda de información sobre un tema específico.</span></span></span></span></span></span></li>
+</ul>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Aquí te dejo una guía que seguro te ayuda (esto también es una infografía).</span></span></span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><img src="{{context_path}}/content/resources/7.1 Línea temporal_.pdf.png" width="800" height="2000" alt="" /></span></span></span></span></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span></span></span></span></span></p>
+<p><a href="https://canva.link/d7g5lcopfvrwerd" title="">PASOS</a></p>
+<p style="text-align: center;"><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-0q7misfuu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Para poder realizar nuestra infografía vamos a seguir paso a paso cómo se debe realizar:</span></span></span></span></span></span></p>\n<ul>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Podemos utilizar la herramienta Canva. Necesitarás ideas, datos y algo que contar; una vez lo tengas, necesitarás plasmarlo en un diseño único y que llame la atención. </span></span></span></span></span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Las habrás visto más de una vez: una infografía es una recopilación de información y datos, habitualmente numéricos, sobre un tema determinado, que se muestra ordenadamente con el apoyo de imágenes u otros recursos.</span></span></span></span></span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sirven para reanudar trabajos más completos, o para tratar información específica sobre un tema.</span></span></span></span></span></span></li>\n<li><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Una vez que hayas terminado el diseño, el programa te permitirá exportar la infografía a un formato de imagen (jpg, png, etc.) que podrás imprimir o compartir, ya sea a tus compañeros oa todo Internet a través de las redes sociales. Se trata de un procedimiento que puede resultar complejo en un inicio pero que con las herramientas adecuadas es muy sencillo de realizar en clase, y un excelente ejercicio de síntesis y búsqueda de información sobre un tema específico.</span></span></span></span></span></span></li>\n</ul>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Aquí te dejo una guía que seguro te ayuda (esto también es una infografía).</span></span></span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><img src=\"{{context_path}}/content/resources/7.1 Línea temporal_.pdf.png\" width=\"800\" height=\"2000\" alt=\"\" /></span></span></span></span></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span></span></span></span></span></p>\n<p><a href=\"https://canva.link/d7g5lcopfvrwerd\" title=\"\">PASOS</a></p>\n<p style=\"text-align: center;\"><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrk-pkxkga2e4</odePageId>
+      <odeBlockId>block-mnstgynb-nvqwrt1wt</odeBlockId>
+      <blockName>¿Cómo se va a evaluar? </blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrk-pkxkga2e4</odePageId>
+          <odeBlockId>block-mnstgynb-nvqwrt1wt</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-slzm6z1sw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/RÚBRICA INFOGRAFÍA (1)_page-0001.jpg" width="1440" height="1113" alt="" /><br title="" /><a href="https://drive.google.com/file/d/1Jo-Ot540EGacVY5J-J6kMGkHtKWgHgIo/view?usp=sharing">EVALUACIÓN INFOGRAFÍA</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-slzm6z1sw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/RÚBRICA INFOGRAFÍA (1)_page-0001.jpg\" width=\"1440\" height=\"1113\" alt=\"\" /><br title=\"\" /><a href=\"https://drive.google.com/file/d/1Jo-Ot540EGacVY5J-J6kMGkHtKWgHgIo/view?usp=sharing\">EVALUACIÓN INFOGRAFÍA</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrk-7m684357q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nos divertimos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos divertimos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos divertimos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrk-7m684357q</odePageId>
+      <odeBlockId>block-mnstgynb-armv3wvtf</odeBlockId>
+      <blockName>Tarea: Vamos a crear unas historias animadas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrk-7m684357q</odePageId>
+          <odeBlockId>block-mnstgynb-armv3wvtf</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-9bxas2061</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-activity"><dl><div class="inline"><dt><span title="Tarea">Tarea</span></dt><dd>60:00</dd></div><div class="inline"><dt><span title="Agrupamiento: grupos de 3">Agrupamiento: grupos de 3</span></dt><dd>25</dd></div></dl><figure class="exe-figure exe-image position-center license-CC0" style="width: 1134px;"><img src="{{context_path}}/content/resources/CREAR_PIXTON.png" alt="CREAR PIXTON" width="1134" height="804" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<p>El cómic es un formato de contenido que goza de gran aceptación, un formato más a tener en cuenta a la hora de crear contenido. La mejor herramienta para crear un cómic es Pixton. Para ello te ofrezco este tutorial paso a paso con todo detalle para que puedas crear tu propio cómic: </p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/dfsME8fQpN8"></iframe></p>
+<p>**Un consejo ¡antes de empezar!**<br />No me voy a cansar nunca de repetir este consejo, porque recibo un montón de consultas que se generan por no seguirlo. Lo voy a poner en negrita:</p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt;">Antes de empezar a crear, tienes que saber qué quieres crear.</span></strong></p>
+<p>¿Cómo vas a aprender a utilizar la herramienta, si además de mirar los 25 botones que hay estás pensando en las palabras que vas a escribir o en lo que vas a dibujar? ¡Es imposible!</p>
+<ul>
+<li>Así que primero prepara un esquema con lo que quieres hacer. Pero no un esquema mental, no: un esquema sobre el papel, definiendo las viñetas, los personajes que aparecen en cada una y los diálogos.</li>
+<li>Una vez hecho ese esfuerzo creativo, podrás dedicar todos tus esfuerzos a aprender y comprender la herramienta. Y habrás ahorrado un montón de tiempo, ¡no te imaginas cuanto!</li>
+</ul>
+<p style="text-align: left;"><span style="color: #800080;"><strong><span style="font-size: 14pt;">3 pasos para crear un cómic con Pixton</span></strong></span></p>
+<ol>
+<li>Añadir un fondo o escenario</li>
+<li>Añadir los personajes</li>
+<li>Añadir los bocadillos con diálogos.</li>
+</ol>
+<p><span style="color: #800080;"><strong><span style="font-size: 14pt;">¡Empecemos!</span></strong></span></p>
+<ul>
+<li>Haz clic en el menú de las tres rayitas que aparece en la esquina superior izquierda, y se abrirá una ventanita.</li>
+<li>Haz clic en el signo más que ves junto a «Cómics» para empezar. <span style="font-size: 16.799999px;">Aparecerán tres opciones: tira cómica, guión gráfico y novela gráfica. Ya tendrás tiempo de investigar, de momento vamos a «tirar p’alante» para que te acostumbres a la herramienta. Selecciona «tira cómica«. </span><span style="font-size: 16.799999px;">Y después podrás elegir entre «principiante» o «avanzado».</span></li>
+<li><span style="font-size: 16.799999px;"> ¡Elige avanzado! No tengas miedo, yo no te guío. La opción principiante es bastante aburrida, tiene muy pocas opciones…</span></li>
+</ul>
+<p><span style="font-size: 14pt; color: #0000ff;"><strong> Paso 1: Añadir fondo o escenario:</strong></span><br />Hay un montón de fondos predeterminados, y también puedes filtrar utilizando el buscador. Introduce la palabra clave que defina el tipo de ambiente de fondo que deseas.  </p>
+<p>En este paso te recomiendo añadir algunos accesorios para personalizar la escena y darle más vida. </p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 1966px;"><img src="{{context_path}}/content/resources/teclas_pixton.png" alt="Teclas" width="1966" height="962" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<p><strong><span style="color: #0000ff; font-size: 14pt;">Paso 2: Añadir personajes</span></strong></p>
+<p><span style="color: #000000; font-size: 12pt;">Una vez que tienes las viñetas con el fondo, haz clic sobre la primera para editarla. Lo siguiente será añadir los personajes. Es tan sencillo como hacer clic en el icono con la cara.</span></p>
+<p><span style="font-size: 14pt; color: #0000ff;"><strong>Paso 3. Añadir bocadillo o globo de diálogo</strong></span></p>
+<p><span style="font-size: 12pt; color: #000000;">Ya tienes el escenario y los personajes, solo te falta hacerlos hablar. Para ello haz clic sobre el icono del globo amarillo que se ve a la izquierda.</span></p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 1838px;"><img src="{{context_path}}/content/resources/bocadillos_pixton.png" alt="Bocadillos pistón" width="1838" height="1058" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<p> Tanto si lo guardas para después como si haces clic en publicar, podrás volver después a editarlo. Así que no te preocupes, que no es definitivo.</p>
+<p>Para poder comparatirlo necesitas publicarlo, así que haz click en publicar. Tranquilo, que tampoco es definitivo: los cómics publicados se pueden volver a editar.</p></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textInfoDurationTextInput":"Tarea","textInfoDurationInput":"60:00","textInfoParticipantsTextInput":"Agrupamiento: grupos de 3","textInfoParticipantsInput":"25","textFeedbackInput":"","textFeedbackTextarea":"","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Tarea\">Tarea</span></dt><dd>60:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento: grupos de 3\">Agrupamiento: grupos de 3</span></dt><dd>25</dd></div></dl><figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1134px;\"><img src=\"{{context_path}}/content/resources/CREAR_PIXTON.png\" alt=\"CREAR PIXTON\" width=\"1134\" height=\"804\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<p>El cómic es un formato de contenido que goza de gran aceptación, un formato más a tener en cuenta a la hora de crear contenido. La mejor herramienta para crear un cómic es Pixton. Para ello te ofrezco este tutorial paso a paso con todo detalle para que puedas crear tu propio cómic: </p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/dfsME8fQpN8\"></iframe></p>\n<p>**Un consejo ¡antes de empezar!**<br />No me voy a cansar nunca de repetir este consejo, porque recibo un montón de consultas que se generan por no seguirlo. Lo voy a poner en negrita:</p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt;\">Antes de empezar a crear, tienes que saber qué quieres crear.</span></strong></p>\n<p>¿Cómo vas a aprender a utilizar la herramienta, si además de mirar los 25 botones que hay estás pensando en las palabras que vas a escribir o en lo que vas a dibujar? ¡Es imposible!</p>\n<ul>\n<li>Así que primero prepara un esquema con lo que quieres hacer. Pero no un esquema mental, no: un esquema sobre el papel, definiendo las viñetas, los personajes que aparecen en cada una y los diálogos.</li>\n<li>Una vez hecho ese esfuerzo creativo, podrás dedicar todos tus esfuerzos a aprender y comprender la herramienta. Y habrás ahorrado un montón de tiempo, ¡no te imaginas cuanto!</li>\n</ul>\n<p style=\"text-align: left;\"><span style=\"color: #800080;\"><strong><span style=\"font-size: 14pt;\">3 pasos para crear un cómic con Pixton</span></strong></span></p>\n<ol>\n<li>Añadir un fondo o escenario</li>\n<li>Añadir los personajes</li>\n<li>Añadir los bocadillos con diálogos.</li>\n</ol>\n<p><span style=\"color: #800080;\"><strong><span style=\"font-size: 14pt;\">¡Empecemos!</span></strong></span></p>\n<ul>\n<li>Haz clic en el menú de las tres rayitas que aparece en la esquina superior izquierda, y se abrirá una ventanita.</li>\n<li>Haz clic en el signo más que ves junto a «Cómics» para empezar. <span style=\"font-size: 16.799999px;\">Aparecerán tres opciones: tira cómica, guión gráfico y novela gráfica. Ya tendrás tiempo de investigar, de momento vamos a «tirar p’alante» para que te acostumbres a la herramienta. Selecciona «tira cómica«. </span><span style=\"font-size: 16.799999px;\">Y después podrás elegir entre «principiante» o «avanzado».</span></li>\n<li><span style=\"font-size: 16.799999px;\"> ¡Elige avanzado! No tengas miedo, yo no te guío. La opción principiante es bastante aburrida, tiene muy pocas opciones…</span></li>\n</ul>\n<p><span style=\"font-size: 14pt; color: #0000ff;\"><strong> Paso 1: Añadir fondo o escenario:</strong></span><br />Hay un montón de fondos predeterminados, y también puedes filtrar utilizando el buscador. Introduce la palabra clave que defina el tipo de ambiente de fondo que deseas.  </p>\n<p>En este paso te recomiendo añadir algunos accesorios para personalizar la escena y darle más vida. </p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1966px;\"><img src=\"{{context_path}}/content/resources/teclas_pixton.png\" alt=\"Teclas\" width=\"1966\" height=\"962\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<p><strong><span style=\"color: #0000ff; font-size: 14pt;\">Paso 2: Añadir personajes</span></strong></p>\n<p><span style=\"color: #000000; font-size: 12pt;\">Una vez que tienes las viñetas con el fondo, haz clic sobre la primera para editarla. Lo siguiente será añadir los personajes. Es tan sencillo como hacer clic en el icono con la cara.</span></p>\n<p><span style=\"font-size: 14pt; color: #0000ff;\"><strong>Paso 3. Añadir bocadillo o globo de diálogo</strong></span></p>\n<p><span style=\"font-size: 12pt; color: #000000;\">Ya tienes el escenario y los personajes, solo te falta hacerlos hablar. Para ello haz clic sobre el icono del globo amarillo que se ve a la izquierda.</span></p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1838px;\"><img src=\"{{context_path}}/content/resources/bocadillos_pixton.png\" alt=\"Bocadillos pistón\" width=\"1838\" height=\"1058\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<p> Tanto si lo guardas para después como si haces clic en publicar, podrás volver después a editarlo. Así que no te preocupes, que no es definitivo.</p>\n<p>Para poder comparatirlo necesitas publicarlo, así que haz click en publicar. Tranquilo, que tampoco es definitivo: los cómics publicados se pueden volver a editar.</p></div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrk-7m684357q</odePageId>
+      <odeBlockId>block-mnstgynb-xkbtr6adr</odeBlockId>
+      <blockName>¿Cómo se va a evaluar?</blockName>
+      <iconName>theater</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrk-7m684357q</odePageId>
+          <odeBlockId>block-mnstgynb-xkbtr6adr</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-9dd720pko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Se evaluará siguiendo esta rúbrica</span></span></p>
+<p><br title="" /><a href="https://drive.google.com/file/d/1Er38bV6Fo3gEpSPwqMypEmh0ATO3vPvq/view?usp=sharing">RÚBRICA HISTORIA ANIMADA</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-9dd720pko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Se evaluará siguiendo esta rúbrica</span></span></p>\n<p><br title=\"\" /><a href=\"https://drive.google.com/file/d/1Er38bV6Fo3gEpSPwqMypEmh0ATO3vPvq/view?usp=sharing\">RÚBRICA HISTORIA ANIMADA</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrk-9khmdufx5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Jugamos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Jugamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Jugamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrk-9khmdufx5</odePageId>
+      <odeBlockId>block-mnstgynb-ny4l8drdy</odeBlockId>
+      <blockName>Aprendemos jugando</blockName>
+      <iconName>java</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrk-9khmdufx5</odePageId>
+          <odeBlockId>block-mnstgynb-ny4l8drdy</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-uy7sbdosv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Hemos aprendido la importancia de los minerales y las rocas a lo largo de la historia. Una vez que algo ha sido encontrado, una parte concreta de nuestra vida diaria se modifica y se simplifica, porque muchos de las investigaciones o descubrimientos han sido realizados para facilitar la vida a la gente. </p>
+<p>Por ejemplo, en la prehistoria el desarrollo de materiales fue vital para el desarrollo de los seres humanos. Es así que la prehistoria se divide en dos grandes épocas: Edad de piedra (en la cual el trabajo con la piedra supuso un avance en la vida de la época) y la edad de los metales (con la aparición del cobre, el bronce y el hierro).</p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 744px;"><img src="{{context_path}}/content/resources/edad_de_los_metales.png" alt="Edad de los metales" width="744" height="578" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<p>Ahora es el momento de recordar la importancia de estos recursos en nuestra vida, de qué mejor forma que jugando, por tanto te planteo estos juegos que además te servirán para profundizar un poco más.<strong><span style="font-size: 14pt; color: #993366;"> ¡Diversión activada!</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff6600;"><a href="https://www.cerebriti.com/juegos-de-ciencias/te-sabes-los-minerales" style="color: #ff6600;">Juego de ciencias</a></span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff6600;"><a href="https://www.cerebriti.com/juegos-de-ciencias/te-sabes-los-minerales" style="color: #ff6600;">¿Te sabes los minerales?</a></span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff6600;"><a href="https://www.cerebriti.com/juegos-de-ciencias/como-se-llama-cada-mineral" style="color: #ff6600;">¿Cómo se llama cada mineral?</a></span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff6600;"><a href="https://www.cerebriti.com/juegos-de-ciencias/los-minerales-y-sus-habitos" style="color: #ff6600;">Los minerales y sus hábitos</a></span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #ff6600;"></span></strong></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Hemos aprendido la importancia de los minerales y las rocas a lo largo de la historia. Una vez que algo ha sido encontrado, una parte concreta de nuestra vida diaria se modifica y se simplifica, porque muchos de las investigaciones o descubrimientos han sido realizados para facilitar la vida a la gente. </p>\n<p>Por ejemplo, en la prehistoria el desarrollo de materiales fue vital para el desarrollo de los seres humanos. Es así que la prehistoria se divide en dos grandes épocas: Edad de piedra (en la cual el trabajo con la piedra supuso un avance en la vida de la época) y la edad de los metales (con la aparición del cobre, el bronce y el hierro).</p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 744px;\"><img src=\"{{context_path}}/content/resources/edad_de_los_metales.png\" alt=\"Edad de los metales\" width=\"744\" height=\"578\" hspace=\"auto\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<p>Ahora es el momento de recordar la importancia de estos recursos en nuestra vida, de qué mejor forma que jugando, por tanto te planteo estos juegos que además te servirán para profundizar un poco más.<strong><span style=\"font-size: 14pt; color: #993366;\"> ¡Diversión activada!</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff6600;\"><a href=\"https://www.cerebriti.com/juegos-de-ciencias/te-sabes-los-minerales\" style=\"color: #ff6600;\">Juego de ciencias</a></span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff6600;\"><a href=\"https://www.cerebriti.com/juegos-de-ciencias/te-sabes-los-minerales\" style=\"color: #ff6600;\">¿Te sabes los minerales?</a></span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff6600;\"><a href=\"https://www.cerebriti.com/juegos-de-ciencias/como-se-llama-cada-mineral\" style=\"color: #ff6600;\">¿Cómo se llama cada mineral?</a></span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff6600;\"><a href=\"https://www.cerebriti.com/juegos-de-ciencias/los-minerales-y-sus-habitos\" style=\"color: #ff6600;\">Los minerales y sus hábitos</a></span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff6600;\"></span></strong></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrk-bj7jod1dy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nos evaluamos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos evaluamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos evaluamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrk-bj7jod1dy</odePageId>
+      <odeBlockId>block-mnstgynb-hlpr05ti4</odeBlockId>
+      <blockName>Tarea: ¿Qué recordamos?</blockName>
+      <iconName>attached</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrk-bj7jod1dy</odePageId>
+          <odeBlockId>block-mnstgynb-hlpr05ti4</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-02zcvubhr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento: INDIVIDUAL">Agrupamiento: INDIVIDUAL</span></dt><dd>1</dd></div></dl><p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Sé que si leemos "evaluación" nos asustamos, pero las pruebas son una parte central del aprendizaje y de la evaluación de los conocimientos. A menudo implican sentarse en silencio con una hoja para hacer la prueba. Sin embargo, hay maneras de hacer más divertidas las pruebas y de estudiar para estas. Por tanto, te las voy a plantear como un desafío, con las que una vez realizada podrás jugar con los amigos y los compañeros de clase. </span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En esta tarea deberéis de realizar las siguientes actividades evaluables:</span></span></p>
+<ul>
+<li><a href="https://www.liveworksheets.com/w/es/chemistry/1184160"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CUESTIONARIO SOBRE LAS ROCAS Y LOS MINERALES</span></span></a></li>
+<li><a href="https://www.liveworksheets.com/w/es/ciencias-de-la-naturaleza/1658467"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">JUEGOS DE PALABRAS</span></span></a></li>
+</ul>
+<p><br /></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #800080;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">¿QUIÉN ACERTARÁ MÁS PALABRAS?</span></span></span></strong></span></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pulsa este enlace </span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="ROSCO"> <a href="https://es.educaplay.com/recursos-educativos/28526784-minerales_a_z.html" title="ROSCO">ROSCO</a>y sé el ganador/a, puedes utilizar este descargable para apuntar tus resultados.</span></span></p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 762px;"><img src="{{context_path}}/content/resources/rosco.png" alt="Rosco" width="762" height="996" />
+<figcaption class="figcaption"><span class="license"><span class="tit"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia: </span></span></span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC0</span></span></a></span></figcaption>
+</figure>
+<p style="text-align: center;"><br /><br /></p>
+<p><br /></p>
+<p><strong><span style="color: #ff0000;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">LAS CALIFICACIONES DE CADA UNA DE LAS ACTIVIDADES SALDRÁN REFLEJADAS EN EL CUESTIONARIO.</span></span></span></strong></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-02zcvubhr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"1","textInfoParticipantsTextInput":"Agrupamiento: INDIVIDUAL","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento: INDIVIDUAL\">Agrupamiento: INDIVIDUAL</span></dt><dd>1</dd></div></dl><p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Sé que si leemos \"evaluación\" nos asustamos, pero las pruebas son una parte central del aprendizaje y de la evaluación de los conocimientos. A menudo implican sentarse en silencio con una hoja para hacer la prueba. Sin embargo, hay maneras de hacer más divertidas las pruebas y de estudiar para estas. Por tanto, te las voy a plantear como un desafío, con las que una vez realizada podrás jugar con los amigos y los compañeros de clase. </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En esta tarea deberéis de realizar las siguientes actividades evaluables:</span></span></p>\n<ul>\n<li><a href=\"https://www.liveworksheets.com/w/es/chemistry/1184160\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">CUESTIONARIO SOBRE LAS ROCAS Y LOS MINERALES</span></span></a></li>\n<li><a href=\"https://www.liveworksheets.com/w/es/ciencias-de-la-naturaleza/1658467\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">JUEGOS DE PALABRAS</span></span></a></li>\n</ul>\n<p><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong><span style=\"color: #800080;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">¿QUIÉN ACERTARÁ MÁS PALABRAS?</span></span></span></strong></span></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pulsa este enlace </span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"ROSCO\"> <a href=\"https://es.educaplay.com/recursos-educativos/28526784-minerales_a_z.html\" title=\"ROSCO\">ROSCO</a>y sé el ganador/a, puedes utilizar este descargable para apuntar tus resultados.</span></span></p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 762px;\"><img src=\"{{context_path}}/content/resources/rosco.png\" alt=\"Rosco\" width=\"762\" height=\"996\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Licencia: </span></span></span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">CC0</span></span></a></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><br /><br /></p>\n<p><br /></p>\n<p><strong><span style=\"color: #ff0000;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">LAS CALIFICACIONES DE CADA UNA DE LAS ACTIVIDADES SALDRÁN REFLEJADAS EN EL CUESTIONARIO.</span></span></span></strong></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrl-axe96rz45</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Exponemos nuestro trabajo</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exponemos nuestro trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exponemos nuestro trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-axe96rz45</odePageId>
+      <odeBlockId>block-mnstgynb-htt95gmgr</odeBlockId>
+      <blockName>Taller de clasificación de minerales y rocas</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-axe96rz45</odePageId>
+          <odeBlockId>block-mnstgynb-htt95gmgr</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-ln5kov2eu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Llegados a este punto seguro que somos muy conscientes de la importancia de todos los recursos que componen el ecosistema, ninguno sobra, todos hacen falta y merecen respeto. También hemos aprendido que en la ciudad, incluso si no habíamos pensado en ellos también están por todas partes, que contribuyen a la riqueza del ecosistema y a la salud ambiental. También hemos aprendido acerca de los rocas y como contribuir a vivir de una forma más sostenible.</p>
+<p>Pienso que es necesario que el mundo conozca vuestros descubrimientos, por tanto vamos a proceder a realizar un Taller de Minerales y Rocas, exponiendo en el colegio todo lo que habéis aprendido de esos recursos, de la forma más manipulativa posible. Para ello vamos a utilizar la herramienta "Google Lens". Aquí tenéis un tutorial para saber como funciona, veréis lo fácil que es. </p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/7q-k2k_YrDI"></iframe></p>
+<p style="text-align: justify;">Para realizar este súper taller me voy a basar en la experiencia que tuvo este cole, que se lo pasaron genial: <a href="https://www3.gobiernodecanarias.org/medusa/edublog/ceiplaladera/2023/01/11/el-alumnado-de-5o-de-primaria-participa-en-la-creacion-de-un-taller-de-minerales-y-rocas/">Colegio de Canarias.</a></p>
+<p style="text-align: justify;"></p>
+<p></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Llegados a este punto seguro que somos muy conscientes de la importancia de todos los recursos que componen el ecosistema, ninguno sobra, todos hacen falta y merecen respeto. También hemos aprendido que en la ciudad, incluso si no habíamos pensado en ellos también están por todas partes, que contribuyen a la riqueza del ecosistema y a la salud ambiental. También hemos aprendido acerca de los rocas y como contribuir a vivir de una forma más sostenible.</p>\n<p>Pienso que es necesario que el mundo conozca vuestros descubrimientos, por tanto vamos a proceder a realizar un Taller de Minerales y Rocas, exponiendo en el colegio todo lo que habéis aprendido de esos recursos, de la forma más manipulativa posible. Para ello vamos a utilizar la herramienta \"Google Lens\". Aquí tenéis un tutorial para saber como funciona, veréis lo fácil que es. </p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7q-k2k_YrDI\"></iframe></p>\n<p style=\"text-align: justify;\">Para realizar este súper taller me voy a basar en la experiencia que tuvo este cole, que se lo pasaron genial: <a href=\"https://www3.gobiernodecanarias.org/medusa/edublog/ceiplaladera/2023/01/11/el-alumnado-de-5o-de-primaria-participa-en-la-creacion-de-un-taller-de-minerales-y-rocas/\">Colegio de Canarias.</a></p>\n<p style=\"text-align: justify;\"></p>\n<p></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-axe96rz45</odePageId>
+      <odeBlockId>block-mnstgynb-oo4d36oc0</odeBlockId>
+      <blockName>¿Cómo puedo obtener una súper nota en esta tarea?</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-axe96rz45</odePageId>
+          <odeBlockId>block-mnstgynb-oo4d36oc0</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-4aew4oyq3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/Rubrica_exposicon_minerales.png" alt="Rúbrica exposición de minerales" width="1264" height="906" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/Rubrica_exposicon_minerales.png\" alt=\"Rúbrica exposición de minerales\" width=\"1264\" height=\"906\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+      <odeBlockId>block-mnstgynb-t5eo0vf3w</odeBlockId>
+      <blockName>PROPUESTA DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+          <odeBlockId>block-mnstgynb-t5eo0vf3w</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-htr1bvero</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #000000;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">“Nuestro entorno” es una propuesta didáctica para trabajar el currículo de la asignatura de Conocimiento de medo en 5º de Educación Primaria. </span></span></span></p>
+<p><span style="color: #000000;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Como ya es habitual en estas propuestas, en esta Situación de aprendizaje planteamos retos que resultan motivadores para el alumno y que llevan implícito, en la medida de lo posible, un proceso de aprendizaje autónomo en el que el alumno descubre información, investiga, organiza y realiza una exposición de los minerales, a lo largo de una serie de recursos.</span></span></span></p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 1414px;"><img src="{{context_path}}/content/resources/propuesta_didactica.png" alt="Propuesta Didáctica" width="1414" height="2000" />
+<figcaption class="figcaption"><span class="license"><span class="tit"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia: </span></span></span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">CC0</span></span></a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-htr1bvero","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #000000;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">“Nuestro entorno” es una propuesta didáctica para trabajar el currículo de la asignatura de Conocimiento de medo en 5º de Educación Primaria. </span></span></span></p>\n<p><span style=\"color: #000000;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Como ya es habitual en estas propuestas, en esta Situación de aprendizaje planteamos retos que resultan motivadores para el alumno y que llevan implícito, en la medida de lo posible, un proceso de aprendizaje autónomo en el que el alumno descubre información, investiga, organiza y realiza una exposición de los minerales, a lo largo de una serie de recursos.</span></span></span></p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/propuesta_didactica.png\" alt=\"Propuesta Didáctica\" width=\"1414\" height=\"2000\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Licencia: </span></span></span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">CC0</span></span></a></span></figcaption>\n</figure>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+      <odeBlockId>block-mnstgynb-8g28qvvmb</odeBlockId>
+      <blockName>ITINERARIO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+          <odeBlockId>block-mnstgynb-8g28qvvmb</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-ihsdch1do</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p></p>
+<table style="height: 175px; width: 100%; border-color: #0928ed; background-color: #1fa3db;" border="1">
+<tbody>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; text-align: center; border-color: #106de6; background-color: #270ee3;"><strong>FASES</strong></td>
+<td style="width: 58.174674%; height: 25px; text-align: center; border-color: #106de6; background-color: #270ee3;"><strong>OBJETIVOS</strong></td>
+<td style="width: 21.728619%; height: 25px; text-align: center; border-color: #106de6; background-color: #270ee3;"><strong>SESIONES</strong></td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; text-align: center; border-color: #e32d61; background-color: #f29d9d;">COMENZAMOS</td>
+<td style="width: 58.174674%; height: 25px;">Con esta tarea se pretende que el alumnado se ponga en sintonía con el itinerario que vamos a comenzar. A través de una rutina de pensamiento conseguimos dos objetivos, uno situar al alumno, y por otro lado una evaluación inicial que ayude a conocer los conocimientos previos y rediseñar el itinerario si fuera necesario. </td>
+<td style="width: 21.728619%; height: 25px;">1 SESIÓN</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;">¿QUÉ TENEMOS A NUESTRO ALREDEDOR?</td>
+<td style="width: 58.174674%; height: 25px;">Conocer el concepto de los minerales y las rocas desde la visualización de unos vídeos motivadores y la explicación de los contenidos que vamos a trabajar en esta Situación de Aprendizaje. </td>
+<td style="width: 21.728619%; height: 25px;">2 sesiones</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;">INVESTIGAMOS</td>
+<td style="width: 58.174674%; height: 25px;">Con esta tarea cada  grupo creará una infografía, para ello deberán investigar sobre un mineral, su historia, cómo se descubrió y su uso hoy en día. </td>
+<td style="width: 21.728619%; height: 25px;"> 2 sesiones</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;">NOS DIVERTIMOS</td>
+<td style="width: 58.174674%; height: 25px;">Con esta tarea cada  grupo creará una historia animada, plasmando los contenidos que han investigado con su infografía. Para ello utilizarán la herramienta Pixton. </td>
+<td style="width: 21.728619%; height: 25px;">2 sesiones</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;">JUGAMOS</td>
+<td style="width: 58.174674%; height: 25px;">Se pretende que el alumnado se divierta con los aprendizajes conseguidos.</td>
+<td style="width: 21.728619%; height: 25px;"> 1 sesión</td>
+</tr>
+<tr style="height: 25px;">
+<td style="width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;">NOS EVALUAMOS</td>
+<td style="width: 58.174674%; height: 25px;">Se presentan una serie de actividades-juegos en los cuales se evaluarán sus conocimientos adquiridos.</td>
+<td style="width: 21.728619%; height: 25px;">1 sesión</td>
+</tr>
+<tr>
+<td style="width: 20.096706%; border-color: #e32d61; background-color: #f29d9d;">EXPONEMOS NUESTRO TRABAJO</td>
+<td style="width: 58.174674%;"></td>
+<td style="width: 21.728619%;">1 SESIÓN</td>
+</tr>
+</tbody>
+</table>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p></p>\n<table style=\"height: 175px; width: 100%; border-color: #0928ed; background-color: #1fa3db;\" border=\"1\">\n<tbody>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; text-align: center; border-color: #106de6; background-color: #270ee3;\"><strong>FASES</strong></td>\n<td style=\"width: 58.174674%; height: 25px; text-align: center; border-color: #106de6; background-color: #270ee3;\"><strong>OBJETIVOS</strong></td>\n<td style=\"width: 21.728619%; height: 25px; text-align: center; border-color: #106de6; background-color: #270ee3;\"><strong>SESIONES</strong></td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; text-align: center; border-color: #e32d61; background-color: #f29d9d;\">COMENZAMOS</td>\n<td style=\"width: 58.174674%; height: 25px;\">Con esta tarea se pretende que el alumnado se ponga en sintonía con el itinerario que vamos a comenzar. A través de una rutina de pensamiento conseguimos dos objetivos, uno situar al alumno, y por otro lado una evaluación inicial que ayude a conocer los conocimientos previos y rediseñar el itinerario si fuera necesario. </td>\n<td style=\"width: 21.728619%; height: 25px;\">1 SESIÓN</td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;\">¿QUÉ TENEMOS A NUESTRO ALREDEDOR?</td>\n<td style=\"width: 58.174674%; height: 25px;\">Conocer el concepto de los minerales y las rocas desde la visualización de unos vídeos motivadores y la explicación de los contenidos que vamos a trabajar en esta Situación de Aprendizaje. </td>\n<td style=\"width: 21.728619%; height: 25px;\">2 sesiones</td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;\">INVESTIGAMOS</td>\n<td style=\"width: 58.174674%; height: 25px;\">Con esta tarea cada  grupo creará una infografía, para ello deberán investigar sobre un mineral, su historia, cómo se descubrió y su uso hoy en día. </td>\n<td style=\"width: 21.728619%; height: 25px;\"> 2 sesiones</td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;\">NOS DIVERTIMOS</td>\n<td style=\"width: 58.174674%; height: 25px;\">Con esta tarea cada  grupo creará una historia animada, plasmando los contenidos que han investigado con su infografía. Para ello utilizarán la herramienta Pixton. </td>\n<td style=\"width: 21.728619%; height: 25px;\">2 sesiones</td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;\">JUGAMOS</td>\n<td style=\"width: 58.174674%; height: 25px;\">Se pretende que el alumnado se divierta con los aprendizajes conseguidos.</td>\n<td style=\"width: 21.728619%; height: 25px;\"> 1 sesión</td>\n</tr>\n<tr style=\"height: 25px;\">\n<td style=\"width: 20.096706%; height: 25px; border-color: #e32d61; background-color: #f29d9d;\">NOS EVALUAMOS</td>\n<td style=\"width: 58.174674%; height: 25px;\">Se presentan una serie de actividades-juegos en los cuales se evaluarán sus conocimientos adquiridos.</td>\n<td style=\"width: 21.728619%; height: 25px;\">1 sesión</td>\n</tr>\n<tr>\n<td style=\"width: 20.096706%; border-color: #e32d61; background-color: #f29d9d;\">EXPONEMOS NUESTRO TRABAJO</td>\n<td style=\"width: 58.174674%;\"></td>\n<td style=\"width: 21.728619%;\">1 SESIÓN</td>\n</tr>\n</tbody>\n</table>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+      <odeBlockId>block-mnstgynb-9ljgvufrt</odeBlockId>
+      <blockName>REFERENCIAS CURRICULARES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+          <odeBlockId>block-mnstgynb-9ljgvufrt</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-mp75y4yr1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<figure class="exe-figure exe-image position-center license-CC0" style="width: 1690px;"><img src="{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_21.48.49.png" alt="" width="1690" height="978" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 1724px;"><img src="{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_21.48.58.png" alt="" width="1724" height="962" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<figure class="exe-figure exe-image position-center license-CC0" style="width: 1674px;"><img src="{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_21.49.06.png" alt="" width="1674" height="858" />
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a></span></figcaption>
+</figure>
+<p><br /><br /></p>
+<p></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1690px;\"><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_21.48.49.png\" alt=\"\" width=\"1690\" height=\"978\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1724px;\"><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_21.48.58.png\" alt=\"\" width=\"1724\" height=\"962\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 1674px;\"><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2023-11-16_a_las_21.49.06.png\" alt=\"\" width=\"1674\" height=\"858\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a></span></figcaption>\n</figure>\n<p><br /><br /></p>\n<p></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+      <odeBlockId>block-mnstgynb-tldcccco4</odeBlockId>
+      <blockName>BIBLIOGRAFÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+          <odeBlockId>block-mnstgynb-tldcccco4</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-nzz2kvag4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">-  </span></span><a href="https://www3.gobiernodecanarias.org/medusa/edublog/ceiplaladera/2023/01/11/el-alumnado-de-5o-de-primaria-participa-en-la-creacion-de-un-taller-de-minerales-y-rocas/"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://www3.gobiernodecanarias.org/medusa/edublog/ceiplaladera/2023/01/11/el-alumnado-de-5o-de-primaria-participa-en-la-creacion-de-un-taller-de-minerales-y-rocas/</span></span></a></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">-  </span></span><a href="https://cedec.intef.es/rubrica/rubrica-para-evaluar-una-infografia-3/"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">https://cedec.intef.es/rubrica/rubrica-para-evaluar-una-infografia-3/</span></span></a></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- </span></span><a href="http://www.youtube.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">www.youtube.com</span></span></a></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">-  </span></span><a href="http://www.anayaeducacion.es"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">www.anayaeducacion.es</span></span></a></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- </span></span><a href="http://www.liveworksheets.com"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">www.liveworksheets.com</span></span></a></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">- <a href="http://www.canva.es">www.canva.es</a></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-nzz2kvag4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-  </span></span><a href=\"https://www3.gobiernodecanarias.org/medusa/edublog/ceiplaladera/2023/01/11/el-alumnado-de-5o-de-primaria-participa-en-la-creacion-de-un-taller-de-minerales-y-rocas/\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://www3.gobiernodecanarias.org/medusa/edublog/ceiplaladera/2023/01/11/el-alumnado-de-5o-de-primaria-participa-en-la-creacion-de-un-taller-de-minerales-y-rocas/</span></span></a></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-  </span></span><a href=\"https://cedec.intef.es/rubrica/rubrica-para-evaluar-una-infografia-3/\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">https://cedec.intef.es/rubrica/rubrica-para-evaluar-una-infografia-3/</span></span></a></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- </span></span><a href=\"http://www.youtube.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">www.youtube.com</span></span></a></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-  </span></span><a href=\"http://www.anayaeducacion.es\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">www.anayaeducacion.es</span></span></a></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- </span></span><a href=\"http://www.liveworksheets.com\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">www.liveworksheets.com</span></span></a></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">- <a href=\"http://www.canva.es\">www.canva.es</a></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+      <odeBlockId>block-mnstgynb-wiba2gqsi</odeBlockId>
+      <blockName>Herramientas </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-b7t2dew5n</odePageId>
+          <odeBlockId>block-mnstgynb-wiba2gqsi</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-gcp03kedx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Para realizar mi propuesta didáctica las herramientas que voy a utilizar con mi clase serán las siguientes. </span></span></p>
+<p><a href="https://padlet.com/edupzlnprofecole/herramientas-interesantes-mjjw3qb0txub2px5" title="MIS HERRAMIENTAS">https://padlet.com/edupzlnprofecole/herramientas-interesantes-mjjw3qb0txub2px5</a></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-11 a las 22.46.33.png" width="1440" height="821" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-gcp03kedx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Para realizar mi propuesta didáctica las herramientas que voy a utilizar con mi clase serán las siguientes. </span></span></p>\n<p><a href=\"https://padlet.com/edupzlnprofecole/herramientas-interesantes-mjjw3qb0txub2px5\" title=\"MIS HERRAMIENTAS\">https://padlet.com/edupzlnprofecole/herramientas-interesantes-mjjw3qb0txub2px5</a></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-11 a las 22.46.33.png\" width=\"1440\" height=\"821\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnt0ctrl-ngb8bqkpm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnt0ctrl-ngb8bqkpm</odePageId>
+      <odeBlockId>block-mnstgynb-1yjz1tvpp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnt0ctrl-ngb8bqkpm</odePageId>
+          <odeBlockId>block-mnstgynb-1yjz1tvpp</odeBlockId>
+          <odeIdeviceId>idevice-mnstgynb-s3yrl3njl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</span></span></span></span></p>
+<p><img src="{{context_path}}/content/resources/CRÉDITOS.EDU26.png" width="1024" height="768" alt="CRÉDITOS " /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnstgynb-s3yrl3njl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Este contenido fue creado con eXeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos.</span></span></span></span></p>\n<p><img src=\"{{context_path}}/content/resources/CRÉDITOS.EDU26.png\" width=\"1024\" height=\"768\" alt=\"CRÉDITOS \" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
